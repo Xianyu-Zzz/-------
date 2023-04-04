@@ -1,0 +1,1 @@
+data = cdfread("2001\gps1.cdf")
